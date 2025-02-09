@@ -3,7 +3,7 @@ const songs = [
     { title: "Erase Me - Main", artist: "Kid Cudi, Kanye West", cover: "./images/EraseMe.jpg", duration: "3:12", tags: ['top-international', 'top-alltime'] },
     { title: "Soundtrack 2 My Life", artist: "Kid Cudi", cover: "./images/Soundtrack.jpg", duration: "3:56", tags: ['top-international', 'top-alltime'] },
     { title: "Power Trip (feat. Miguel)", artist: "J. Cole, Miguel", cover: "./images/PowerTrip.jpg", duration: "4:01", tags: ['top-alltime'] },
-    { title: "4X4", artist: "Travis Scott", cover: "./images/4x4.jpg", duration: "4:26", tags: ['top-international'] },
+    { title: "4X4", artist: "Travis Scott", cover: "./images/4X4.jpg", duration: "4:26", tags: ['top-international'] },
     { title: "Candy Shop (feat. Olivia)", artist: "Travis Scott", cover: "./images/CandyShop.jpg", duration: "3:29", tags: ['top-international'] },
     { title: "Butterfly", artist: "BTS", cover: "./images/Butterfly.jpg", duration: "3:59", tags: ['top-international'] },
     { title: "Trust Issues", artist: "Drake", cover: "./images/TrustIssues.jpg", duration: "4:42", tags: ['top-international'] },
