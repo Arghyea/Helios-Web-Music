@@ -20,6 +20,7 @@ const songs = [
     { title: "Stay", artist: "The Kid LAROI & Justin Bieber", cover: "./images/Stay.jpg", duration: "2:21", tags: ['top-international'] },
     { title: "Senorita", artist: "Shawn Mendes & Camila Cabello", cover: "./images/Senorita.png", duration: "3:10", tags: ['top-international'] },
 
+
 ];
 
 const playlists = [
